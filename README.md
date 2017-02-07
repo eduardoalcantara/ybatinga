@@ -19,42 +19,42 @@ Keywords: Implementation Framework. Distributed Systems Platform. Microservices.
 
 LISTA DE ILUSTRAÇÕES
 
-Esquema 1	Modelagem de Classes do Gestor de Requisições (Java)	
-Figura 1	Analogia entre funções e peças de LEGO e quebra-cabeças	
-Esquema 2	Tabelas do banco e as referências entre elas	
-Código 1	Parte da estrutura da classe $platformScope	
-Código 2	Parte da estrutura da função action.request()	
-Fluxograma 1	A Plataforma em uma arquitetura não-distribuída	
-Fluxograma 2	A Plataforma em uma arquitetura parcialmente distribuída	
-Fluxograma 3	A Plataforma em uma arquitetura totalmente distribuída	
-Figura 2	Telas de login e operação do Sistema Acesso Servidor	
-Figura 3	Telas de operação e configuração do sistema TRE-TV	
-Figura 4	Exemplo de saída do comando /relógio do TRE-TV	
-Gráfico 1	Tamanho do aplicativo e das respostas HTTP	
-Gráfico 2	Tempo mínimo de carregamento da página	
-Gráfico 3	Tempo e tamanho de carregamento dos serviços do TRE-TV	
+- Esquema 1	Modelagem de Classes do Gestor de Requisições (Java)	
+- Figura 1	Analogia entre funções e peças de LEGO e quebra-cabeças	
+- Esquema 2	Tabelas do banco e as referências entre elas	
+- Código 1	Parte da estrutura da classe $platformScope	
+- Código 2	Parte da estrutura da função action.request()	
+- Fluxograma 1	A Plataforma em uma arquitetura não-distribuída	
+- Fluxograma 2	A Plataforma em uma arquitetura parcialmente distribuída	
+- Fluxograma 3	A Plataforma em uma arquitetura totalmente distribuída	
+- Figura 2	Telas de login e operação do Sistema Acesso Servidor	
+- Figura 3	Telas de operação e configuração do sistema TRE-TV	
+- Figura 4	Exemplo de saída do comando /relógio do TRE-TV	
+- Gráfico 1	Tamanho do aplicativo e das respostas HTTP	
+- Gráfico 2	Tempo mínimo de carregamento da página	
+- Gráfico 3	Tempo e tamanho de carregamento dos serviços do TRE-TV	
 
 LISTA DE QUADROS E TABELAS
 
-Quadro 1	Camadas do Java EE e algumas de suas especificações	
-Quadro 2	Diferenças básicas entre protocolos de comunicação	
-Quadro 3	Parâmetros básicos para requisições da plataforma	
-Quadro 4	Estrutura de uma requisição no formato URL	
-Quadro 5	Ordem de passagem de parâmetros via URL limpa	
-Quadro 6	Funcionamento do Gerente de Requisições	
-Quadro 7	Regras para uso do /wsdl de acordo com parâmetros inclusos	
-Quadro 8	Convenções e Configurações do Framework	
-Quadro 9	Tabelas básicas e obrigatórias do Framework	
-Quadro 10	Tabelas de gestão e operação de serviços do Framework	
-Quadro 11	Tabelas de controle e configuração de licenças	
-Quadro 12	Tabelas para serviços específicos na Plataforma	
-Quadro 13	Tabelas com listagens tipo ENUM	
-Quadro 14	Estrutura principal do objeto $platformScope	
-Quadro 15	Funções JavaScript para acesso à Plataforma	
-Quadro 16	Funções JavaScript para criptografia de dados	
-Quadro 17	Linguagens de programação para a camada cliente	
-Quadro 18	Módulos do Gestor de Requisições
-Tabela 1	Especificações do Projeto de Framework de Plataformas
+- Quadro 1	Camadas do Java EE e algumas de suas especificações	
+- Quadro 2	Diferenças básicas entre protocolos de comunicação	
+- Quadro 3	Parâmetros básicos para requisições da plataforma	
+- Quadro 4	Estrutura de uma requisição no formato URL	
+- Quadro 5	Ordem de passagem de parâmetros via URL limpa	
+- Quadro 6	Funcionamento do Gerente de Requisições	
+- Quadro 7	Regras para uso do /wsdl de acordo com parâmetros inclusos
+- Quadro 8	Convenções e Configurações do Framework	
+- Quadro 9	Tabelas básicas e obrigatórias do Framework	
+- Quadro 10	Tabelas de gestão e operação de serviços do Framework	
+- Quadro 11	Tabelas de controle e configuração de licenças	
+- Quadro 12	Tabelas para serviços específicos na Plataforma	
+- Quadro 13	Tabelas com listagens tipo ENUM	
+- Quadro 14	Estrutura principal do objeto $platformScope	
+- Quadro 15	Funções JavaScript para acesso à Plataforma	
+- Quadro 16	Funções JavaScript para criptografia de dados	
+- Quadro 17	Linguagens de programação para a camada cliente	
+- Quadro 18	Módulos do Gestor de Requisições
+- Tabela 1	Especificações do Projeto de Framework de Plataformas
 
 SIGLAS E ABREVIAÇÕES
 
