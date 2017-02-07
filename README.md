@@ -58,133 +58,133 @@ LISTA DE QUADROS E TABELAS
 
 SIGLAS E ABREVIAÇÕES
 
-AJAX	Asynchronous Javascript and XML
-AMQP	Advanced Message Queuing Protocol
-ANSI	American National Standards Institute
-API		Application Programming Interface
-ASCOM	Assessoria de Comunicação
-ASP		Active Server Pages
-BD		Banco de Dados
-BIN		Binary File
-CDN		Content Delivery Network
-CGI		Computer Generated Imagery
-CoC		Convention Over Configuration
-CORS	Cross-Origin Resource Sharing
-CPU		Central Process Unit
-CRM		Customer Relationship Management
-CRUD	Create, Read, Update, Delete
-CSS		Cascading Style Sheets
-CSV		Comma-Separated Values
-DAO		Data Access Object
-DB		Data Base
-DBA		Data Base Administrator
-DDoS	Distributed DoS Attack
-DDNS 	Dynamic Domain Name Server
-DHTML	Dynamic HTML
-DI		Dependency Injection
-DLL		Dinamic Link Library
-DOM		Document Object Model
-DoM		Deny of Service
-DOS		Disk Operational System
-EE		Enterprise Edition
-EJB		Enterprise JavaBeans
-EPP		Empresa de Pequeno Porte
-EX		Exemplo
-EXE		Executable File
-FAQ		Frequently Asked Questions
-FK		Foreign Key
-FTP		File Transfer Protocol
-GPS		Global Positioning System
-GRP		Gerente de Requisições da Plataforma
-HTML	HyperText Markup Language
-HTTP	HyperText Transfer Protocol
-HTTPS	HTTP Secure / HTTP over SSL
-IDE		Integrated Development Environment
-IDX		Index
-IP		Internet Protocol
-IoC		Inversion of Control
-J2EE	Java 2 Platform Enterprise Edition
-JAAS	Java Authentication and Authorization Service
-JAX		Java API for XML
-JDBC	Java Database Connectivity
-JDK		Java Development Kit
-JMS		Java Message Service
-JPA		Java Persistence API
-JPQL	Java Persistence Query Language
-JRE		Java Runtime Environment
-JS		JavaScript
-JSF		JavaServer Faces
-JSON	JavaScript Object Notation
-JSONP	JSON with Padding
-JSP		JavaServer Pages
-JSTL	JavaServer Pages Standard Tag Library
-KB		Kilobyte
-LOG		Arquivo com histórico de atividades de um sistema
-MIN		Minutos
-MOM		Middleware Oriented Message
-MPE		Micro e Pequena Empresa
-MPS.BR	Melhoria do Processo de Software Brasileiro
-MS		Microsoft
-ms		milesegundos
-MVC		Model, View, Controller 
-MVVM	Model–view–viewmodel
-NAT		Network Address Translation
-OCCI	Open Cloud Computing Interface
-ORM		Object-Relational Mapping
-P2P		Peer-To-Peer
-PBQP-Sw	Programa Brasileiro da Qualidade e Produtividade em Software
-PC		Personal Computer
-PDF		Portable Document Format File
-PHP		Personal Home Page/forms interpreter
-PK		Primary Key
-QoS		Quality of Service
-RAD		Rapid Application Development
-RC4		Rivest Cipher 4
-RDBMS	Relational database management system
-RFC		Request For Comments
-RIA		Rich Internet Application
-RMI		Remote Method Invocation
-RPC		Remote Procedure Call
-RTCP	RTP Control Protocol
-RTF		Rich Text File
-RTP		Real-time Transport Protocol
-RTSP	Real Time Streaming Protocol
-SCV		Sistema de Controle de Versionamento
-SGBD	Sistema Gerenciador de Bancos de Dados
-SLA		Service Level Agreement
-SO		Sistema Operacional
-SOAP	Simple Object Access Protocol
-SP		Stored Procedure
-SQL		Structured Query Language
-SRTP	Secure Real-time Transport Protocol
-SSH		Secure Shell
-SSL		Secure Sockets Layer
-TCP		Transmission Control Protocol
-TCU		Tribunal de Contas da União
-TLS		Transport Layer Security
-TRE-PA	Tribunal Regional Eleitoral do Pará
-TV		Television
-TXT		Text File
-UDP		User Datagram Protocol
-UML		Unified Modeling Language
-UOL		Universo Online
-URI		Uniform Resource Identifier
-URL		Uniform Resource Locator
-URN		Uniform Resource Name
-VoIP	Voice Over IP
-W3C		World Wide Web Consortium
-WAR		Web application ARchive
-WML		Website Meta Language
-WS		Web Service
-WSDL	Web Services Description Language
-WWW		World Wide Web
-XHTML	Extensible HTML
-XLS		Arquivo no formato do Microsoft Excel
-XML		Extensible Markup Language
-XSLT	Extensible Stylesheet Language Transformations
-ZIP		Arquivo compactado no formato ZIP (conotativo de Zipper)
+- AJAX	Asynchronous Javascript and XML
+- AMQP	Advanced Message Queuing Protocol
+- ANSI	American National Standards Institute
+- API		Application Programming Interface
+- ASCOM	Assessoria de Comunicação
+- ASP		Active Server Pages
+- BD		Banco de Dados
+- BIN		Binary File
+- CDN		Content Delivery Network
+- CGI		Computer Generated Imagery
+- CoC		Convention Over Configuration
+- CORS	Cross-Origin Resource Sharing
+- CPU		Central Process Unit
+- CRM		Customer Relationship Management
+- CRUD	Create, Read, Update, Delete
+- CSS		Cascading Style Sheets
+- CSV		Comma-Separated Values
+- DAO		Data Access Object
+- DB		Data Base
+- DBA		Data Base Administrator
+- DDoS	Distributed DoS Attack
+- DDNS 	Dynamic Domain Name Server
+- DHTML	Dynamic HTML
+- DI		Dependency Injection
+- DLL		Dinamic Link Library
+- DOM		Document Object Model
+- DoM		Deny of Service
+- DOS		Disk Operational System
+- EE		Enterprise Edition
+- EJB		Enterprise JavaBeans
+- EPP		Empresa de Pequeno Porte
+- EX		Exemplo
+- EXE		Executable File
+- FAQ		Frequently Asked Questions
+- FK		Foreign Key
+- FTP		File Transfer Protocol
+- GPS		Global Positioning System
+- GRP		Gerente de Requisições da Plataforma
+- HTML	HyperText Markup Language
+- HTTP	HyperText Transfer Protocol
+- HTTPS	HTTP Secure / HTTP over SSL
+- IDE		Integrated Development Environment
+- IDX		Index
+- IP		Internet Protocol
+- IoC		Inversion of Control
+- J2EE	Java 2 Platform Enterprise Edition
+- JAAS	Java Authentication and Authorization Service
+- JAX		Java API for XML
+- JDBC	Java Database Connectivity
+- JDK		Java Development Kit
+- JMS		Java Message Service
+- JPA		Java Persistence API
+- JPQL	Java Persistence Query Language
+- JRE		Java Runtime Environment
+- JS		JavaScript
+- JSF		JavaServer Faces
+- JSON	JavaScript Object Notation
+- JSONP	JSON with Padding
+- JSP		JavaServer Pages
+- JSTL	JavaServer Pages Standard Tag Library
+- KB		Kilobyte
+- LOG		Arquivo com histórico de atividades de um sistema
+- MIN		Minutos
+- MOM		Middleware Oriented Message
+- MPE		Micro e Pequena Empresa
+- MPS.BR	Melhoria do Processo de Software Brasileiro
+- MS		Microsoft
+- ms		milesegundos
+- MVC		Model, View, Controller 
+- MVVM	Model–view–viewmodel
+- NAT		Network Address Translation
+- OCCI	Open Cloud Computing Interface
+- ORM		Object-Relational Mapping
+- P2P		Peer-To-Peer
+- PBQP-Sw	Programa Brasileiro da Qualidade e Produtividade em Software
+- PC		Personal Computer
+- PDF		Portable Document Format File
+- PHP		Personal Home Page/forms interpreter
+- PK		Primary Key
+- QoS		Quality of Service
+- RAD		Rapid Application Development
+- RC4		Rivest Cipher 4
+- RDBMS	Relational database management system
+- RFC		Request For Comments
+- RIA		Rich Internet Application
+- RMI		Remote Method Invocation
+- RPC		Remote Procedure Call
+- RTCP	RTP Control Protocol
+- RTF		Rich Text File
+- RTP		Real-time Transport Protocol
+- RTSP	Real Time Streaming Protocol
+- SCV		Sistema de Controle de Versionamento
+- SGBD	Sistema Gerenciador de Bancos de Dados
+- SLA		Service Level Agreement
+- SO		Sistema Operacional
+- SOAP	Simple Object Access Protocol
+- SP		Stored Procedure
+- SQL		Structured Query Language
+- SRTP	Secure Real-time Transport Protocol
+- SSH		Secure Shell
+- SSL		Secure Sockets Layer
+- TCP		Transmission Control Protocol
+- TCU		Tribunal de Contas da União
+- TLS		Transport Layer Security
+- TRE-PA	Tribunal Regional Eleitoral do Pará
+- TV		Television
+- TXT		Text File
+- UDP		User Datagram Protocol
+- UML		Unified Modeling Language
+- UOL		Universo Online
+- URI		Uniform Resource Identifier
+- URL		Uniform Resource Locator
+- URN		Uniform Resource Name
+- VoIP	Voice Over IP
+- W3C		World Wide Web Consortium
+- WAR		Web application ARchive
+- WML		Website Meta Language
+- WS		Web Service
+- WSDL	Web Services Description Language
+- WWW		World Wide Web
+- XHTML	Extensible HTML
+- XLS		Arquivo no formato do Microsoft Excel
+- XML		Extensible Markup Language
+- XSLT	Extensible Stylesheet Language Transformations
+- ZIP		Arquivo compactado no formato ZIP (conotativo de Zipper)
 
-# 1 INTRODUÇÃO
+## 1 INTRODUÇÃO
 
 Desde a concepção dos primeiros computadores como o ENIAC (1946), do
 tamanho de uma casa, até a atualidade dos dispositivos móveis, o software esteve
