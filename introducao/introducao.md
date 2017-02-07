@@ -184,12 +184,12 @@ dados como fonte de funções acessíveis sem APIs.
 Após o desenvolvimento do projeto deste framework, espera-se que as
 plataformas desenvolvidas com ele sejam capazes de:
 
-Transformar o paradigma de desenvolvimento de sistemas ao estimular a quebra de sistemas monolíticos (fortemente acoplados) em Microserviços distribuíveis pela rede, mudando o foco do desenvolvimento na camada de controle da aplicação e descentralizando-a para processar os modelos de negócio diretamente nos bancos de dados, assim como processar a interface de usuário totalmente na camada do cliente;
-Diminuir o tamanho do servidor (serverless);
-Diminuição da curva de aprendizagem, tanto para configurar, quanto para desenvolver novos serviços;
-Diminuição do consumo dos recursos de hardware e software na execução da Plataforma e seus serviços instalados;
-Padronização do acesso aos recursos de serviços acoplados;
-Padronização da administração de recursos, serviços e usuários;
-Aumento da segurança e integridade dos bancos de dados envolvidos;
-Aumento da segurança na troca de informações entre clientes e servidores;
-Aumento da produtividade no desenvolvimento de aplicações.
+* Transformar o paradigma de desenvolvimento de sistemas ao estimular a quebra de sistemas monolíticos (fortemente acoplados) em Microserviços distribuíveis pela rede, mudando o foco do desenvolvimento na camada de controle da aplicação e descentralizando-a para processar os modelos de negócio diretamente nos bancos de dados, assim como processar a interface de usuário totalmente na camada do cliente;
+* Diminuir o tamanho do servidor (serverless);
+* Diminuição da curva de aprendizagem, tanto para configurar, quanto para desenvolver novos serviços;
+* Diminuição do consumo dos recursos de hardware e software na execução da Plataforma e seus serviços instalados;
+* Padronização do acesso aos recursos de serviços acoplados;
+* Padronização da administração de recursos, serviços e usuários;
+* Aumento da segurança e integridade dos bancos de dados envolvidos;
+* Aumento da segurança na troca de informações entre clientes e servidores;
+* Aumento da produtividade no desenvolvimento de aplicações.
