@@ -186,3 +186,146 @@ Keywords: Implementation Framework. Distributed Systems Platform. Microservices.
 - XML		Extensible Markup Language
 - XSLT	Extensible Stylesheet Language Transformations
 - ZIP		Arquivo compactado no formato ZIP (conotativo de Zipper)
+
+**REFERÊNCIAS**
+
+ALURA. Curso de Java e Orientação a Objetos. Caelum. São Paulo, 2016.
+Disponível em <https://goo.gl/co4SnM>. Acesso em: 09 Set 2016.
+
+______. Java para Desenvolvimento Web. Caelum. São Paulo, 2016. Disponível em
+<https://goo.gl/0swlst>. Acesso em: 10 Set 2016.
+
+______. Laboratório Java com Testes, JSF e Design Patterns. Caelum. São Paulo,
+2016. Disponível em <https://goo.gl/k0Rf19>. Acesso em: 10 Set 2016.
+
+______. SOA na prática: Integração com Web Services e Mensageria. Curso
+Intensivo em Belém sob demanda do TRE-PA: Caelum, v. FJ-36, 2015.
+
+AQUINO JR, Gibeon S de. Desenvolvimento de Sistemas Web em Java:
+Frameworks, Padrões de Projeto e Diretrizes para a Camada de Apresentação.
+Recife, 2002. 129 p. Disertação (Pós Ciência da Computação)-UFPE
+
+BORKAR, Shekhar; CHIEN, Andrew A. The Future of Microprocessors. Hillsboro:
+ACM, 2011. Disponível em <https://goo.gl/QMSF0S>. Acesso em: 10 Set 2016.
+
+BRUCE A, Tate. Beyond Java. Sebastopol: O'Reilly, 2005. 185 p.
+
+BYRNE, David. Is the Information Technology Revolution Over?. Federal Reserve.
+Washington, 2013. Disponível em <https://goo.gl/pYj6bf>. Acesso em: 06 Set 2016.
+
+CAMPBELL-KELLY, Martin. From Airline Reservations to Sonic the Hedgehog: A
+History of the Software Industry. Cambridge: The MIT Press, 2003. 372 p.
+
+DE ROSA, Aurélio. Learning Curve: What it is and How it Applies to Information
+Technology. Web Developer Blog. London, 2013. Disponível em
+<https://goo.gl/GiRVA6>. Acesso em: 10 Set 2016.
+
+DEITEL, Paul e Harvey. JAVA: Como Programar. Tradução Carlos Arthur Lang
+Lisboa. 8. ed. Porto Alegre: Prentice Hall, 2010. 1152 p.
+
+DMITRUK, Hilda Beatriz(Org). Cadernos metodológicos: diretrizes da metodologia
+científica. 5. ed. Chapecó: Argos, 2001. 123 p.
+
+FLANAGAN, David. JavaScript: O guia definitivo. 6. ed. Porto Alegre: Bookman, 2013. 1062 p.
+
+FORRISTAL, Jeff. Site Seguro e Aplicações Web. Rio de Janeiro: Alta Books, 2002. 490 p.
+
+GONÇALVEZ, Edson. Desenvolvendo Aplicações Java com JSP, Servlets, JSF,
+Hibernate, EJB 3 Persistence e Ajax. São Paulo: Ciência Moderna, 2007. 776 p.
+
+GUPTA, Arun. Monolithic to Microservices: Refactoring for Java EE Applications.
+Miles to go 3.0. São Francisco, 2015. Disponível em <https://goo.gl/TQXq46>. Acesso em: 20 Nov 2016.
+
+IBM. Who uses mainframes and why do they do it?. 2010. Disponível em
+<https://goo.gl/jg5uqq>. Acesso em: 08 Jan 2017.
+
+KUROSE, Jim; ROSS, Keith. Computer Network: A Top Down Approach. 6. ed.
+Boston: Addison-Wesley, v. Slides, 2012.
+
+LOBO, Edson. Curso de Engenharia de Software. São Paulo: Digerati, 2008.
+
+LUCKOW, Décio Heinzelmann; MELO, Alexandre Altair de. Programação Java
+para a Web. 2. ed. São Paulo: Novatec, 2015. 640 p.
+
+MACVITTIE, Lori. Braceyourselves. Serverless is coming. F5 Networks. Seattle,
+06/2016. Disponível em <https://goo.gl/foZ6ZA>. Acesso em: 09 Set 2016.
+
+______. Cookies, Sessions, and Persistence. F5 Networks. Seattle, 07/2008.
+Disponível em <https://goo.gl/bsO6Rr>. Acesso em: 09 Set 2016.
+
+MALAVASI, Eike. Orquestração e Coreografia em SOA. Sensedia. Campinas, 2008.
+Disponível em <https://goo.gl/rE5Cm8>. Acesso em: 12 Jan 2017.
+
+MASSOL, Vincent; ZYL, Jason van. Better Builds with Maven: Um guia para
+Maven 2.0. South California: Mergere Library Press, 2007. 301 p.
+
+MELO, Ana Cristina Vieira de; SILVA, Flávio Soares Corrêa da. Princípios de
+Linguagens de Programação. São Paulo: EdgardBlücher Ltda, 2003. 211 p.
+
+NORTON, Peter; AITKEN, Peter; WILTON, Richard. Peter Norton: A Bíblia do
+Programador. Tradução Geraldo Costa Filho. 3. ed. Rio de Janeiro: Campus, 1993.
+640 p. Tradução de: PC Programmer's Bible.
+
+NOYES, Katherine. 10 Reasons Open Source Is Good for Business. PC World. San
+Francisco, 2010. Disponível em <https://goo.gl/900PeS>. Acesso em: 09 Set 2016.
+
+O'BRIEN, James A. Sistemas de Informação. São Paulo: Saraiva, 2011. 430 p.
+
+OLIVEIRA, Valéria. Desmistificando a pesquisa científica. Belém: EDUFPA, 2008.
+
+PRESSMAN, Roger. Engenharia de Software. São Paulo: Makron, 1995. 1056 p.
+
+RICHARDSON, Chris. Eventuate Platform: Solving DDM problems in a microservice
+architecture. Eventuate.IO. 2016. Disponível em <http://eventuate.io/>. Acesso em: 09 Jan 2017.
+
+______. Pattern: Microservices Architecture. Microservices.IO. 2014. Disponível em
+<https://goo.gl/idyDAG>. Acesso em: 09 Jan 2017.
+
+RIEHLE, Dirk. Framework Design: A Role Modeling Approach. Zürich, 2000. 230 p.
+Tese (Doutorado em Ciências Técnicas)-Universität Hamburg
+
+SARKUNI, Sehrope. How I Write SQL: Naming Conventions. Launch by Lunch.
+Cranbury, 2014. Disponível em <https://goo.gl/4oAI5K>. Acesso em: 02 Jun 2016.
+
+SESHADRI, Shyam; GREEN, Brad. Desenvolvendo com AngularJS: Aumento de
+produtividade com aplicações Web estruturadas. São Paulo: Novatec, 2014. 349 p.
+
+SILVA, Maurício Samy. Ajax com jQuery: Requisições Ajax com a simplicidade de
+jQuery. São Paulo: Novatec, 2009. 327 p.
+
+SMITH, Roger. Why Java is the nº 1 programming language. The Server Side.
+Newton, 2016. Disponível em <https://goo.gl/0XAgNS>. Acesso em: 20 Nov 2016.
+
+SOARES, Sérgio. Des. Progressivo de Programas Concorrentes Orientados a
+Objetos. Recife, 2001. 121 p. Disertação (Ciência da Computação)-UFPE
+
+SOMMERVILLE, Ian. Software Engineering. Harlow: Addison-W, 2011. 792 p.
+
+TANENBAUM, Andrew S.; STEEN, Maarten van. Sistemas Distribuídos: Princípios
+e Paradigmas. 2. ed. São Paulo: Pearson, 2007. 416 p.
+
+TANENBAUM, Andrew S.; WETHERALL, David. Redes de Computadores. 5. ed.
+São Paulo: Pearson, 2011. 600 p.
+
+TANENBAUM, Andrew S; WOODHULL, Albert S. Operating Systems Design and
+Implementation. 3. ed. Londres: Pearson, 2008. 1080 p.
+
+TCU. Levantamento acerca da Governança de Tecnologia da Informação na
+Administração Pública Federal. Brasília, 2008. 48 p.
+
+TERRA. Multas de trânsito serão integradas nos 27 Estados. Terra Notícias. 2007.
+Disponível em <https://goo.gl/q6Tg3c>. Acesso em: 18 Jan 2017.
+
+W3TECHS. Usage of web servers for websites. W3Techs. Canadá, 2017. Disponível
+em <https://goo.gl/g7pNmD>. Acesso em: 11 Jan 2017.
+
+WIKIPÉDIA. Apache Maven. 2016. Disponível em <https://goo.gl/9mqGjj>. Acesso em: 11 Out 2016.
+
+______. Comparison of web server software. 2017. Disponível em
+<https://goo.gl/dFOiu4>. Acesso em: 10 Jan 2017.
+
+______. Java EE Version History. 2016. Disponível em <https://goo.gl/iyOOxN>. Acesso em: 06 Out 2016.
+
+______. Microservices. 2016. Disponível em <https://goo.gl/E3puJk>. Acesso em: 09 Jan 2017.
+
+______. URL. 2016. Disponível em <https://goo.gl/atdtka>. Acesso em: 14 Dez 2016.
